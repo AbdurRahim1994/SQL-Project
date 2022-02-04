@@ -1,2 +1,0 @@
-This is SQL project
-SQL
